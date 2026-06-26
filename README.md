@@ -2,7 +2,7 @@
 # Sobre mim
 
 
-- 👋 Olá me chamo XXXXXXXXX, sou aluno da rede Estadual do Paraná.
+- 👋 Olá me chamo Paulo, sou aluno da rede Estadual do Paraná.
 - 👀 Estou interessado em aprender novas linguagens de programação e aprimorar o conhecimento na área.
 - 🌱 Atualmente estou cursando
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,6 +14,6 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Qualquer dúvida entre em contato
-<a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="mailto:soares.silva.paulo@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ![](https://media1.tenor.com/m/U94DkrDstecAAAAC/67-angry-bird.gif)
